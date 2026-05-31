@@ -1,7 +1,7 @@
-AI-BASED-AQI-Detection
+AI-BASED-AQI-Detection :
 An AI-powered Air Quality Index (AQI) detection project that estimates air quality from environmental data using machine learning.
 
-Overview
+Overview :
 This project uses AI/ML techniques to predict or classify AQI levels based on input features such as:
 
 PM2.5
