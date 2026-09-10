@@ -1,3 +1,4 @@
+##dont copy projects from ai
 ##AI-BASED-AQI-Detection
 AIR_QUALITY_INDEX
 An AI-powered Air Quality Index (AQI) detection project that estimates air quality from environmental data using machine learning.
